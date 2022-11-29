@@ -1,4 +1,4 @@
-public class IfElseP3 {
+public class GreaterBetweenThreeNum {
     public static void main(String[] args) {
         int x = 12, y = 20, z = 40;
         // If Else Ladder

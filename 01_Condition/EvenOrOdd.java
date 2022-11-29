@@ -1,4 +1,4 @@
-public class IfElseP4 {
+public class EvenOrOdd {
     public static void main(String[] args) {
         int num = 15;
         // if(num % 2 == 0) {
