@@ -19,8 +19,7 @@ Running first program
 
 - Now we need to execute
   - java ClassName
-
-
+  ------------------------------------------
 System.in
 System.out
 System.err
@@ -30,17 +29,10 @@ what is out ?
 
 Data Types
 - Primitive
-
-
-
 - Non-Primitive
-
-
-
-
-
-
-
+############################### 13/02/2023 ###################################
+order of growth
+c < loglogn < logn < n^1/3 < n^1/2 < n < n^2 < n^3 < 2^n < n^n
 
 
 
