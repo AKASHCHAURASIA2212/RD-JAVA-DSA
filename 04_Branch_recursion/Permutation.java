@@ -3,13 +3,14 @@ public class Permutation {
     static boolean[] vis = new boolean[3];
 
     public static void helper(int idx) {
-        
-        for(int i=0;i<3;i++){
+
+        for (int i = 0; i < 3; i++) {
 
         }
     }
+
     public static void main(String[] args) {
-        
+
         helper(0);
     }
 }

@@ -2,7 +2,7 @@
 public class findMax {
 
     public static int max(int[] arr) {
-        int max = Integer.MAX_VALUE;
+        int max = Integer.MIN_VALUE;
         for (int x : arr) {
             if (x > max)
                 max = x;
